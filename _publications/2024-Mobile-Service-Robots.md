@@ -1,7 +1,7 @@
 ---
 title: "Deploying and Evaluating LLMs to Program Service Mobile Robots"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publications/2024-Mobile-Service-Robots
 excerpt: 'We contribute CodeBotler, an open-source robot-agnostic tool to program service mobile robots from natural language, and RoboEval, a  benchmark for evaluating LLMs' capabilities of generating programs to complete service robot tasks.'
 date: 2024-1-4
