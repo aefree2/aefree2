@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Anders_photo.jpg"
+  avatar           : "images/Anders_Photo.jpeg"
   name             : "Anders Freeman"
   pronouns         : "Any" 
   bio              : "First year PhD student at Umass Amherst."
@@ -79,8 +79,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  preprint:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
