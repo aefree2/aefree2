@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Anders_Photo.jpeg"
+  avatar           : "Anders_Photo.jpeg"
   name             : "Anders Freeman"
   pronouns         : "Any" 
   bio              : "First year PhD student at Umass Amherst."
   location         : "Amherst, MA"
   employer         : "Umass Amherst"
-  uri              : # URL
+  uri              : https://aefree2.github.io/aefree2//
   email            : "aefreeman@umass.edu" 
 
   # Academic websites

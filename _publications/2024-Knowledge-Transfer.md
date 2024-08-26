@@ -6,7 +6,7 @@ permalink: /publications/2024-Knowledge-Transfer
 excerpt: 'This paper presents an effective approach for boosting the performance of Code LLMs on low-resource languages using semi-synthetic data.'
 date: 2024-2-20
 paperurl: 'https://arxiv.org/pdf/2308.09895'
-citation: 'Hu, Zichao, Francesca Lucchetti, Claire Schlesinger, Yash Saxena, <b>Anders Freeman<b>, Sadanand Modak, Arjun Guha, and Joydeep Biswas. "Deploying and evaluating llms to program service mobile robots." IEEE Robotics and Automation Letters (2024).'
+citation: 'Hu, Zichao, Francesca Lucchetti, Claire Schlesinger, Yash Saxena, <b>Anders Freeman</b>, Sadanand Modak, Arjun Guha, and Joydeep Biswas. "Deploying and evaluating llms to program service mobile robots." IEEE Robotics and Automation Letters (2024).'
 ---
 
 Over the past few years, Large Language Models of Code (Code LLMs) have started to have a significant impact on programming practice. Code LLMs are also emerging as building blocks for research in programming languages and software engineering. However, Code LLMs produce impressive results on programming languages that are well represented in their training data (e.g., Java, Python, or JavaScript), but struggle with low-resource languages that have limited training data available. Low resource languages include OCaml, Racket, and several others.

@@ -2,12 +2,12 @@
 title: "Deploying and Evaluating LLMs to Program Service Mobile Robots"
 collection: publications
 category: manuscript
-permalink: "/publication/2024-Mobile-Service-Robots"
+permalink: "/publications/2024-Mobile-Service-Robots"
 excerpt: 'We contribute CodeBotler, an open-source robot-agnostic tool to program service mobile robots from natural language, and RoboEval, a benchmark for evaluating LLMs' capabilities of generating programs to complete service robot tasks.'
 date: 2024-04-01
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: "http://dx.doi.org/10.1109/LRA.2024.3360020"
-citation: 'Hu, Zichao, Francesca Lucchetti, Claire Schlesinger, Yash Saxena, <b>Anders Freeman<b>, Sadanand Modak, Arjun Guha, and Joydeep Biswas. "Deploying and evaluating llms to program service mobile robots." IEEE Robotics and Automation Letters (2024).'
+citation: 'Hu, Zichao, Francesca Lucchetti, Claire Schlesinger, Yash Saxena, <b>Anders Freeman</b>, Sadanand Modak, Arjun Guha, and Joydeep Biswas. "Deploying and evaluating llms to program service mobile robots." IEEE Robotics and Automation Letters (2024).'
 
 
 ---
