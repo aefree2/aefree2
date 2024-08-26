@@ -27,7 +27,7 @@ author:
   bio              : "First year PhD student at Umass Amherst."
   location         : "Amherst, MA"
   employer         : "Umass Amherst"
-  uri              : https://aefree2.github.io/aefree2//
+  uri              : # url
   email            : "aefreeman@umass.edu" 
 
   # Academic websites
