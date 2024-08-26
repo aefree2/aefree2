@@ -12,7 +12,7 @@ title                    : "Anders Freeman"
 title_separator          : "-"
 name                     : &name "Anders Freeman"
 description              : &description "personal description"
-url                      : https://aefree2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aefree2.github.io/aefree2/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Anders Freeman"
   pronouns         : "Any" 
   bio              : "First year PhD student at Umass Amherst."
-  location         : "Earth"
+  location         : "Amherst, MA"
   employer         : "Umass Amherst"
   uri              : # URL
   email            : "aefreeman@umass.edu" 
