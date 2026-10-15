@@ -24,7 +24,7 @@ author:
   avatar           : "Anders_Photo.jpeg"
   name             : "Anders Freeman"
   pronouns         : "Any" 
-  bio              : "First year PhD student at Umass Amherst."
+  bio              : "Second year PhD student at Umass Amherst."
   location         : "Amherst, MA"
   employer         : "Umass Amherst"
   uri              : # url
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?view_op=list_works&hl=en&user=nE2KFzcAAAAJ
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -81,6 +81,8 @@ publication_category:
     title: 'Journal Articles'    
   preprint:
     title: 'Preprints'
+  confrence:
+    title: 'Confrence Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
