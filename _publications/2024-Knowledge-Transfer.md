@@ -7,7 +7,7 @@ excerpt: 'This paper presents an effective approach for boosting the performance
 date: 2024-8-10
 venue: PACMPL Volume 8, Issue OOPSLA2
 paperurl: 'https://arxiv.org/pdf/2308.09895'
-citation: Cassano, Federico, John Gouwar, Francesca Lucchetti, Claire Schlesinger, </b>Anders Freeman</b>, Carolyn Jane Anderson, Molly Q. Feldman, Michael Greenberg, Abhinav Jangda, and Arjun Guha. "Knowledge transfer from high-resource to low-resource programming languages for code llms." OOPSLA2 (2024): 
+citation: 'Cassano, Federico, John Gouwar, Francesca Lucchetti, Claire Schlesinger, </b>Anders Freeman</b>, Carolyn Jane Anderson, Molly Q. Feldman, Michael Greenberg, Abhinav Jangda, and Arjun Guha. "Knowledge transfer from high-resource to low-resource programming languages for code llms." OOPSLA2 (2024).' 
 
 ---
 
