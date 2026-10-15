@@ -7,7 +7,7 @@ excerpt: 'We contribute CodeBotler, an open-source robot-agnostic tool to progra
 date: 2024-1-4
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'http://dx.doi.org/10.1109/LRA.2024.3360020'
-citation: 'Hu, Zichao, Francesca Lucchetti, Claire Schlesinger, Yash Saxena, <b>Anders Freeman</b>, Sadanand Modak, Arjun Guha, and Joydeep Biswas. "Deploying and evaluating llms to program service mobile robots." IEEE Robotics and Automation Letters (2024).'
+citation: 'Hu, Zichao, Francesca Lucchetti, Claire Schlesinger, Yash Saxena, </b>Anders Freeman</b>, Sadanand Modak, Arjun Guha, and Joydeep Biswas. "Deploying and evaluating llms to program service mobile robots." IEEE Robotics and Automation Letters (2024).'
 
 
 ---
