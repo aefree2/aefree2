@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards & Grants"
-    url: /awards-and-grants/
+  # - title: "Awards & Grants"
+  #   url: /awards-and-grants/
 
   # - title: "Talks"
   #   url: /talks/    

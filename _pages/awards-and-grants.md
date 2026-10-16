@@ -10,13 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Awards
+Awards
 ======
-* [Add award name], [Awarding organization], [Year]
-* [Add award name], [Awarding organization], [Year] -->
+* Rocket City Fellows, [Awarding organization], [2026]
+<!-- * [Add award name], [Awarding organization], [Year] -->
 
 Grants
 ======
 * Women in Defense Scholar, Women in Defense, [2026]
-* [Add grant or fellowship name], [Funding agency or institution], [2026]
+<!-- * [Add grant or fellowship name], [Funding agency or institution], [2026] -->
 
